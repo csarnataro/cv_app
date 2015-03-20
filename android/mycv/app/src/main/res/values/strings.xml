@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Christian Sarnataro CV</string>
+    <string name="avatar_content_description">Avatar</string>
+    <string name="text">Developer</string>
+    <string name="search_icon_cd">Cerca...</string>
+    <string name="result_title">Risultati</string>
+    <string name="cancel">Chiudi</string>
+    <string name="share_subject">CV Christian Sarnataro</string>
+    <string name="share_body"><![CDATA[
+        Scarica il CV di Christian Sarnataro - Programmatore Java, Android & iOS
+        \n\nScarica su Google Play all\'indirizzo http://goo.gl/UNBkCs\n\n
+        \n\nA breve disponibile anche per iOS
+        ]]>
+    </string>
+    <string name="share_via">Condividi con:</string>
+</resources>
