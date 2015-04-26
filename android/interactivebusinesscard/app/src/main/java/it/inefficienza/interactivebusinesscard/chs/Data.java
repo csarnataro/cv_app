@@ -21,7 +21,13 @@ public class Data {
     private static Map<String, Object> pag1 = new HashMap<String, Object>() {{
         put(TITLE, "CHRISTIAN SARNATARO");
         put(ICON, R.drawable.avatar);
-        put(TEXT, "Java, Android & iOS Developer<br><a href=\"mailto:christian.sarnataro@outlook.com?subject=CV Christian Sarnataro&body=Ho visto l'applicazione Android con il tuo CV ... \">christian.sarnataro@outlook.com</a>");
+        put(TEXT, "Java, Android & iOS Developer");
+    }};
+
+    private static Map<String, Object> pag6 = new HashMap<String, Object>() {{
+        put(TITLE, "CONTATTI");
+        put(ICON, R.drawable.mail);
+        put(TEXT, "<a href=\"mailto:christian.sarnataro@outlook.com?subject=Contatti Christian Sarnataro&body=Ho visto l'applicazione Android con il tuo contatto email... \">christian.sarnataro@outlook.com</a>");
     }};
 
     private static Map<String, Object> pag2 = new HashMap<String, Object>() {{
@@ -136,6 +142,7 @@ public class Data {
         data.add(pag3);
         data.add(pag4);
         data.add(pag5);
+        data.add(pag6);
     }
 
     public static ArrayList<Map<String, Object>> getData() {

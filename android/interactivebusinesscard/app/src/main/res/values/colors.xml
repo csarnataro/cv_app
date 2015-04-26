@@ -7,38 +7,7 @@
         <item>#7DA8AB</item>
         <item>#6C9380</item>
         <item>#568d6b</item>
+        <item>#45a59d</item>
     </string-array>
-
-    <color name="bg_green">#ff009688</color>
-    <color name="bg_red">#c78b91</color>
-    <color name="bg_brown">#c7bb30</color>
-    <color name="bg_blue">#78ace6</color>
-    <color name="bg_gray">#b0b0b0</color>
-    <color name="bg_orange">#ffb223</color>
-
-    <color name="bg_soft_1">#2C4257</color>
-    <color name="bg_soft_2">#4F6C7D</color>
-    <color name="bg_soft_3">#7DA8AB</color>
-    <color name="bg_soft_4">#A8CFC1</color>
-    <color name="bg_soft_5">#CEE8C9</color>
-
-
-    <color name="bg_kiss_1">#56626B</color>
-    <color name="bg_kiss_2">#6C9380</color>
-    <color name="bg_kiss_3">#C0CA55</color>
-    <color name="bg_kiss_4">#F07C6C</color>
-    <color name="bg_kiss_5">#AD5472</color>
-
-    <color name="bg_vintage_1">#5C4B51</color>
-    <color name="bg_vintage_2">#8CBEB2</color>
-    <color name="bg_vintage_3">#F2EBBF</color>
-    <color name="bg_vintage_4">#F3B562</color>
-    <color name="bg_vintage_5">#F06060</color>
-
-    <color name="bg_pg_1">#009688</color>
-    <color name="bg_pg_2">#004b96</color>
-    <color name="bg_pg_3">#969600</color>
-    <color name="bg_pg_4">#FFC9C1</color>
-    <color name="bg_pg_5">#CC535A</color>
 
 </resources>
